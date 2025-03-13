@@ -1,0 +1,76 @@
+{
+    "question": [
+      "What is the capital of France?",
+      "Which planet is known as the Red Planet?",
+      "What is the largest mammal?",
+      "What is the chemical symbol for water?",
+      "Who wrote 'Romeo and Juliet'?",
+      "What is 2 + 2?",
+      "Which programming language is this quiz about?",
+      "What does CPU stand for?",
+      "What is the boiling point of water in Celsius?",
+      "How many continents are there?",
+      "Which animal is known as the king of the jungle?",
+      "What is the largest ocean?",
+      "What is the square root of 16?",
+      "What is the main ingredient in guacamole?",
+      "In which year did the first man land on the moon?",
+      "What is the currency of Japan?",
+      "What is the largest desert in the world?",
+      "What is the chemical symbol for gold?",
+      "What is the primary function of the lungs?",
+      "What is the output of print(type([1, 2, 3]))?"
+  
+
+    ],
+    "answer": [
+ 
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+      
+    ],
+    "options": [
+  
+      ["Paris", "London", "Berlin", "Madrid"],
+      ["Mars", "Venus", "Jupiter", "Saturn"],
+      ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+      ["H2O", "CO2", "NaCl", "O2"],
+      ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+      ["4", "3", "5", "6"],
+      ["Python", "Java", "C++", "JavaScript"],
+      ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+      ["100", "0", "212", "32"],
+      ["7", "5", "6", "8"],
+      ["Lion", "Tiger", "Elephant", "Gorilla"],
+      ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      ["4", "8", "2", "16"],
+      ["Avocado", "Tomato", "Onion", "Lime"],
+      ["1969", "1970", "1968", "1971"],
+      ["Yen", "Dollar", "Euro", "Pound"],
+      ["Antarctic Polar Desert", "Sahara Desert", "Arabian Desert", "Gobi Desert"],
+      ["Au", "Ag", "Fe", "Cu"],
+      ["Respiration", "Digestion", "Circulation", "Excretion"],
+      ["<class 'list'>", "<class 'tuple'>", "<class 'set'>", "<class 'dict'>"]
+  
+
+    ]
+  }
+  
